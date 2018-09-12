@@ -3,7 +3,7 @@
 ### Pre Labs for Hemanth Kondapalli
 
 2. [Lab 2](//github.com/hemanthk92/IDDPreLabs/tree/master/Lab2)
-3. [Lab 3] (//github.com/hemanthk92/IDD-Fa18-Lab3/PreLab)
+3. [Lab 3] (//hemanthk92/IDDPreLabs/tree/master/Lab3)
 
 ### Labs for Hemanth Kondapalli
  
