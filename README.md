@@ -4,6 +4,7 @@
 
 2. [Lab 2](//github.com/hemanthk92/IDDPreLabs/tree/master/Lab2)
 2. [Lab 3](//github.com/hemanthk92/IDDPreLabs/tree/master/Lab3)
+4. [Lab 4](//github.com/hemanthk92/IDDPreLabs/tree/master/Lab3)
 
 ### Labs for Hemanth Kondapalli
  
