@@ -15,5 +15,8 @@
 4. [Lab 4](//github.com/hemanthk92/IDD-Fa18-Lab4)
 5. [Lab 5](//github.com/hemanthk92/IDD-Fa18-Lab5)
 6. [Lab 6](//github.com/hemanthk92/IDD-Fa18-Lab6)
-6. [Lab 7](//github.com/hemanthk92/IDD-Fa18-Lab7)
+7. [Lab 7](//github.com/hemanthk92/IDD-Fa18-Lab7)
 
+### Final Project
+
+1. [Lab 1](//github.com/hemanthk92/IDD-FinalProject)
