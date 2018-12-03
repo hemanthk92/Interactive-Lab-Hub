@@ -19,4 +19,4 @@
 
 ### Final Project
 
-1. [Lab 1](//github.com/hemanthk92/IDD-FinalProject)
+[Final Project](//github.com/hemanthk92/IDD-FinalProject)
